@@ -1,13 +1,13 @@
 <script setup>
-console.info('Hello Vue 3 + Vite!')
+  console.info('Hello Vue 3 + Vite!');
 </script>
 
 <template>
-    <h1 class="hello">Hello Vue 3 + Vite!</h1>
+  <h1 class="hello">Hello Vue 3 + Vite!</h1>
 </template>
 
 <style>
-.hello {
+  .hello {
     color: green;
-}
+  }
 </style>
